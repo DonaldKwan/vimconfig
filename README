@@ -1,0 +1,4 @@
+This is my Vim config.
+
+VIM 7.4 onwards: pull to ~/.vim to use.
+Else: git clone to .vim, echo "runtime vimrc" > .vimrc
