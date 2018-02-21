@@ -12,5 +12,8 @@ nnoremap <leader>u :GundoToggle<CR>
                 " ,u for super undo
 
 syntax enable
-syntax on
-colorscheme elflord
+"if !exists("g:syntax_on")
+"  syntax enable
+"endif
+colorscheme macvim
+set background=dark
